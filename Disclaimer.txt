@@ -1,0 +1,62 @@
+Disclaimer:
+
+The data presented in this map and any accompanying factsheets, written reports, and news posts 
+are intended to provide a broad overview of pesticide usage across U.S. states based on available information. 
+It is important to note the following considerations and limitations when interpreting and utilizing this dataset:
+
+Active Ingredients Only: 
+The figures provided represent the amount of active ingredients in pounds per acre, 
+calculated using the pounds of active ingredients per acre. 
+This calculation does not take into account inactive or inert ingredients, 
+some of which may have potentially harmful effects. 
+The contentious nature of inert ingredients in pesticide formulations emphasizes
+the need for greater transparency in this area, as advocated by organizations such as Beyond Pesticides.
+
+High-End Application Rates: 
+The dataset utilizes the higher end of pesticide application rates provided by the Environmental Protection Agency (EPA).
+These application rates can vary based on factors such as crop type, climate, and other variables.
+While legal pesticide usage falls within the EPA's acceptable range, 
+it is essential to recognize that actual application rates may differ based on specific circumstances.
+
+Assumed Application Frequency: 
+Due to a lack of precise data on the number of pesticide applications per year, 
+a simplified assumption of an average of two applications per year for all pesticides was made.
+In reality, some pesticides are applied more frequently than others, 
+and this approximation should be considered a rough estimate rather than an exact representation of pesticide use.
+
+Organic Farming Underrepresentation: 
+Organic farming practices may be underrepresented in this dataset due to the challenges associated 
+with obtaining organic certification. 
+Farmers must adhere to organic principles for three years before becoming certified, 
+which can discourage some from pursuing official certification. 
+Additionally, it is essential to acknowledge that organic farming also employs pesticides, 
+albeit non-synthetic ones, which tend to have fewer health and environmental concerns.
+
+Incomplete USDA Organic Data: 
+The USDA Organic data used in this project is incomplete, with many concealed data points. 
+This necessitated the removal of such data or the use of generalized crop types 
+to compensate for limitations in specific crop data. 
+The limited accessibility of USDA Organic data, particularly when locked in PDF format, 
+impacted the reporting of organic data.
+This project highlights the need for greater transparency and accessibility in USDA data.
+
+Underreported Data: 
+The 2021 USDA data, particularly for Hawaii, may be underreported. Other states may also experience underreporting. 
+For example, the California Department of Pesticide Regulation reported higher pesticide usage figures
+for California in 2021 due to their more comprehensive data system. USDA data relies on self-reporting by farmers,
+which may result in inherent inaccuracies across the board.
+
+Missing Crop Data: 
+Some crops, such as Alfalfa, Barley, Beans, and others, have little or no USDA data available. 
+In such cases, pesticide estimations were based on crops with similar characteristics,
+pest issues, growing zones, and other relevant factors. 
+Additionally, the chemical application data for certain crops is limited, with some data dating back to 1999.
+
+It is crucial to approach this dataset with an understanding of its limitations 
+and the complexities of pesticide usage in agriculture. 
+This project aims to shed light on conventional pesticide usage trends 
+but may not capture the full spectrum of pesticide applications, including biopesticides and other natural solutions.
+
+Furthermore, this project highlights the importance of 
+transparency, accessibility, and accuracy in agricultural data reporting, 
+calling for improvements in data collection and dissemination practices by relevant agencies.
